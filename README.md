@@ -6,3 +6,4 @@ hi
 stop
 hello
 student
+start
