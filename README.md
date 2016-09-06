@@ -7,3 +7,4 @@ stop
 hello
 student
 start
+thank you
