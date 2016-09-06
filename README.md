@@ -8,3 +8,4 @@ hello
 student
 start
 welcome
+thank you
